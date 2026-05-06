@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://foruda.gitee.com/images/1778079679411088993/ddf6f976_11560668.png" height="300px">
+<img src="[https://foruda.gitee.com/images/1778079679411088993/ddf6f976_11560668.png](https://github.com/user-attachments/assets/2cbe31be-8778-40de-be23-1a9182cfa29c)" height="300px">
 
 
 <h4>一个由年轻技术人自发组织的现代化技术社区，让每一位热爱技术的人，感受到创造的快乐。</h4>
