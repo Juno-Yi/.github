@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://foruda.gitee.com/images/1764590937065307500/57375fee_11560668.png](https://github.com/user-attachments/assets/889dfedf-8fbc-4cfe-a6a1-5b8b829d7c41)" height="300px" />
+<img src="https://github.com/user-attachments/assets/889dfedf-8fbc-4cfe-a6a1-5b8b829d7c41" height="300px" />
 
 <h4>一个由年轻技术人自发组织的现代化技术社区，让每一位热爱技术的人，感受到创造的快乐。</h4>
 <em>一个人或许走得更快，但一群人一定走得更远。</em>
